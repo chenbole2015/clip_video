@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingDefaultResource">
+    <!--/storage/emulate/0-->
+    <external-path
+        name="external-files"
+        path="." />
+    <!-- /data/data/<包名>/files-->
+    <files-path
+        name="files-path"
+        path="." />
+    <!--/data/data/<包名>/cache-->
+    <cache-path
+        name="cache-path"
+        path="." />
+    <!--/storage/emulate/0/Android/data/<包名>/files -->
+    <external-files-path
+        name="external-files-path"
+        path="." />
+    <!-- /storage/emulate/0/Android/data/<包名>/cache -->
+    <external-cache-path
+        name="external-cache-path"
+        path="." />
+    <!--配置root-path。/ -->
+    <root-path
+        name="root-path"
+        path="" />
+</paths>
